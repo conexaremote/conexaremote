@@ -1,16 +1,25 @@
-## Hi there 👋
+# Conexa Remote 🍋🤝
 
-<!--
-**conexaremote/conexaremote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Direct WebRTC P2P Remote Desktop.** Native sub-50ms latency, end-to-end encrypted peer-to-peer streaming, 100% EU GDPR data sovereignty, and zero per-seat licensing.
 
-Here are some ideas to get you started:
+Official Website: **[conexaremote.com](https://conexaremote.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Architecture & Highlights
+
+- **Direct WebRTC P2P:** Direct peer-to-peer data channel streaming without central relay bottlenecks.
+- **Sub-50ms Latency:** High-performance hardware video encoding/decoding for fluid 60 FPS remote management.
+- **Enterprise Security:** TLS 1.3 + DTLS/SRTP end-to-end encryption.
+- **Fair Pricing Model:** Free for personal use. Business tier at 29 €/mo for unlimited concurrent sessions on unlimited devices.
+
+---
+
+### 🌐 Official Network
+
+- 🌍 **Website:** [conexaremote.com](https://conexaremote.com)
+- 𝕏 **X / Twitter:** [@conexaremote](https://x.com/conexaremote)
+- 📺 **YouTube:** [@conexaremoteapp](https://www.youtube.com/@conexaremoteapp)
+- 💬 **Reddit:** [u/conexaremote](https://www.reddit.com/user/conexaremote)
+- 🎵 **TikTok:** [@conexaremoteapp](https://www.tiktok.com/@conexaremoteapp)
+- ✍️ **Medium:** [@conexaremote](https://medium.com/@conexaremote)
